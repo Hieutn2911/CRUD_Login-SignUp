@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "title": "Product 3",
+      "price": 75,
+      "description": "Description for Product 3",
+      "id": 7
+    },
+    {
+      "title": "Product 3",
+      "price": 75,
+      "description": "Description for Product 3",
+      "id": 7
+    },
+    {
+      "title": "Product 3",
+      "price": 75,
+      "description": "Description for Product 3",
+      "id": 7
+    },
+    {
+      "title": "Product 3",
+      "price": 75,
+      "description": "Description for Product 3",
+      "id": 7
+    },
+    {
+      "title": "Product 3",
+      "price": 75,
+      "description": "Description for Product 3",
+      "id": 7
+    },
+    {
+      "title": "product 3 ",
+      "price": 123,
+      "description": "this is lenovo branch",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "hieutran290611@gmail.com",
+      "password": "$2a$10$SiFK/bBwduJ/4V7sEXyyue7bHxZbMZj5tnFgcz0D/lGPn8ttAu4qm",
+      "username": "quaduahau",
+      "confirmPassword": "111111111111",
+      "id": 1
+    }
+  ]
+}
