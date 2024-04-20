@@ -96,7 +96,10 @@ const Register = () => {
           )}
         </div>
         <p>
-          You have an account? <NavLink to="/">Login</NavLink>
+          You have an account?{" "}
+          <NavLink to="/" className="text-primary">
+            Login
+          </NavLink>
         </p>
         <button className="btn btn-primary">Register</button>
       </form>

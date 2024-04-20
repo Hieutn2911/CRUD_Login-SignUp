@@ -82,7 +82,10 @@ const Login = () => {
           )}
         </div>
         <p>
-          Don't have an account? <NavLink to="/register">Register</NavLink>
+          Don't have an account?{" "}
+          <NavLink to="/register" className="text-primary">
+            Register
+          </NavLink>
         </p>
 
         <button className="btn btn-primary">Login</button>
